@@ -1,0 +1,18 @@
+nav{
+   border: 10px solid;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between ;
+}
+li {
+    
+    display: inline-block;
+    margin: 50px;
+    text-decoration: none;
+    cursor:grab;
+}
