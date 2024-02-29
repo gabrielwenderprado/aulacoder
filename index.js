@@ -17,7 +17,7 @@
 // calcularICMS()
 // console.log('o valor do ICMS do seu produto é de ' + resultado)
 
-import "./styles.css";
+// import "./styles.css";
 
 function calculaPorcentagem(valorProd, porcentagem) {
   // Função que calcula a porcentagem
